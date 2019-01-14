@@ -6,3 +6,5 @@ Most of the files (including the Assets and irrKlang folders) responsible for th
 - Actor.cpp
 - StudentWorld.h
 - StudentWorld.cpp
+
+A precompiled and playable version of the game can be found in the TunnelMan folder.
