@@ -14,6 +14,6 @@ A precompiled and playable version of the game can be found in the TunnelMan fol
 
 
 
-## Gameplay Screenshot
+## Game Screenshot
 
 
