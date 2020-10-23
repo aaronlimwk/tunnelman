@@ -12,12 +12,12 @@ A precompiled and playable version of the game can be found in the TunnelMan fol
 
 ## Menu :arrow_forward:
 
-
+img src="/tunnelman-menu.png" width="475" height="500">
 
 ## Game Screenshot :space_invader:
 
-
+img src="/snake-gameplay.gif" width="475" height="500">
 
 ## Game Over :skull:
 
-
+img src="/snake-gameplay.gif" width="475" height="500">
